@@ -1,0 +1,7 @@
+[package]
+name = "bitrand"
+version = "0.1.0"
+authors = ["Simonas Kazlauskas <git@kazlauskas.me>"]
+
+[dependencies]
+rand = "0.3"
