@@ -2,6 +2,7 @@
 name = "bitrand"
 version = "0.1.0"
 authors = ["Simonas Kazlauskas <git@kazlauskas.me>"]
+license = "ISC"
 
 [dependencies]
 rand = "0.3"
